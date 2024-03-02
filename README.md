@@ -1,4 +1,6 @@
-# vite-plugin-relay-lite
+# vite-plugin-relay-muli
+
+**Inspired by `vite-plugin-relay-lite`**
 
 [![Version on NPM](https://img.shields.io/npm/v/vite-plugin-relay-lite)](https://www.npmjs.com/package/vite-plugin-relay-lite)
 [![Downlaods on NPM](https://img.shields.io/npm/dm/vite-plugin-relay-lite)](https://www.npmjs.com/package/vite-plugin-relay-lite)
